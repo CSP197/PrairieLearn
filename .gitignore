@@ -47,5 +47,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
 # VSCode files
 .vscode
